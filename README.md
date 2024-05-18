@@ -4,7 +4,7 @@ Welcome to the Engineering Data Analysis repository! This repository contains pr
 
 ## Projects
 
-- **Automobile Dataset**: Analysis and modeling to predict various attributes of automobiles.
+- **Automobile Dataset**: Analysis various attributes of automobiles.
 
 ## How to Use
 
